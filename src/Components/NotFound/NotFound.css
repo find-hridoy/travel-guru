@@ -1,0 +1,8 @@
+.notFound-area {
+    text-align: center;
+    padding-top: 200px;
+}
+
+.notFound-area h3 {
+    color: red;
+}

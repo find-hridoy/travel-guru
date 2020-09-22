@@ -1,0 +1,28 @@
+.button-item {
+    text-decoration: none;
+}
+
+.button-item .another-login-button {
+    border: 1px solid #C7C7C7;
+    box-sizing: border-box;
+    border-radius: 57px;
+    box-shadow: none;
+    background: transparent;
+    width: 400px;
+    height: 51px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.button-item .another-login-button:hover {
+    background: #f9a51a;
+    box-shadow: none;
+}
+
+.another-login-button img {
+    width: 8%;
+    margin-left: -80px;
+    margin-right: 50px;
+}

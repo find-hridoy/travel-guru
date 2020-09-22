@@ -1,0 +1,27 @@
+.app-bar {
+    color: #fff;
+}
+
+.logo {
+    width: 15%;
+}
+
+.nav-link {
+    color: #fff;
+    font-weight: 500;
+}
+
+.nav-link:hover {
+    color: rgb(218, 218, 218);
+}
+
+.login-btn {
+    font-weight: 600;
+    width: 80px;
+}
+
+/* .nav-items .login-btn {
+    background-color: #F9A51A;
+    font-weight: 600;
+    width: 80px;
+} */
