@@ -1,6 +1,9 @@
--This website is primarily for travelers. <br/> 
--They can choose any place from this website and learn about the hotel arrangements there.<br/>
--This is a dynamic website.<br/>
+❖ Make a website for travelers. They can choose any
+place and learn about the hotel arrangements there.<br/>
+❖ Users can log in by using Google or Email or
+Facebook.<br/>
+❖ Google Map and other features have to.<br/>
+
 -**[Live Website](https://travel-guru-pro.web.app/)**
 
 <h3 align="left">Languages and Tools:</h3>
